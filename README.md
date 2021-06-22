@@ -1,4 +1,4 @@
-# ResidualRegressionNetworks
+# Residual Regression Networks
 Residual Regression Networks with denoising component for deep-learning based model fitting
 
 Traditional quantitative MRI (qMRI) signal model ﬁtting to diffusion-weighted MRI (DW-MRI) is slow and requires long computational time per patient. In this work, we
