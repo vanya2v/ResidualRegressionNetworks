@@ -19,7 +19,8 @@ This repository provides the codes for Model 3: stacked residual regression netw
 ### How to Use
 
 1. Setup a virtual environment with these dependencies:
-```keras with tensorflow backend
+```
+   keras with tensorflow backend
    scipy
    pandas
 ```
