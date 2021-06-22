@@ -7,7 +7,9 @@ explore q-space learning for prostate cancer characterization. Our results show 
 ### Referencing and citing
 
 If you use this repository, please refer to this citation:
+```
 Valindria, V., Palombo, M., Chiou, E., Singh, S., Punwani, S., & Panagiotaki, E. (2021, April). Synthetic Q-Space Learning With Deep Regression Networks For Prostate Cancer Characterisation With Verdict. In 2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI) (pp. 50-54). IEEE.
+```
 
 This repository provides the codes for Model 3: stacked residual regression network with soft thresholding, as it is show to work effectively to remove noise-related features in MRI signals. Soft threshold can be learned in the dense block unit,  before addition with residual connection, as shown in this Figure.
 
